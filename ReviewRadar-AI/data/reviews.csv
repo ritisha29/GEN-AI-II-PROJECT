@@ -1,0 +1,13 @@
+review_id,product_id,rating,review_text
+1,P100,5,"The battery life on this phone is absolutely amazing. I can go two days without charging!"
+2,P100,2,"The camera quality is terrible in low light. Very grainy."
+3,P101,4,"Great headphones, the noise cancellation works perfectly for my daily commute."
+4,P101,1,"They broke after just two weeks of use. Flimsy build quality."
+5,P102,5,"The new UI is so intuitive and fast. Best software update ever."
+6,P100,3,"Battery is good, but the screen scratches easily."
+7,P101,5,"Excellent bass and clear treble. The best noise cancellation I've experienced."
+8,P102,2,"The app keeps crashing when I try to sync my data."
+9,P100,1,"Overheats when playing games. Not happy with this purchase."
+10,P101,4,"Very comfortable to wear for long periods. Wish they came with a hard case."
+11,P103,5,"Setup was a breeze, connected to my Wi-Fi in seconds."
+12,P103,2,"Range is very limited. If I go to the next room, it disconnects."

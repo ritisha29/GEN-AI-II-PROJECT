@@ -1,0 +1,6 @@
+fastapi==0.109.2
+uvicorn==0.27.1
+sentence-transformers==2.5.1
+chromadb==0.4.24
+pandas==2.2.1
+pydantic-settings==2.2.1
